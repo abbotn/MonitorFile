@@ -1,0 +1,13 @@
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\bin\Release\net6.0-windows\MonitorFile.exe
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\bin\Release\net6.0-windows\MonitorFile.deps.json
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\bin\Release\net6.0-windows\MonitorFile.runtimeconfig.json
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\bin\Release\net6.0-windows\MonitorFile.dll
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\MonitorFile.vbproj.AssemblyReference.cache
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\MonitorFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\MonitorFile.AssemblyInfoInputs.cache
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\MonitorFile.AssemblyInfo.vb
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\MonitorFile.vbproj.CoreCompileInputs.cache
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\MonitorFile.dll
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\refint\MonitorFile.dll
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\MonitorFile.genruntimeconfig.cache
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\obj\Release\net6.0-windows\ref\MonitorFile.dll

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nabbot\\Source\\Repos\\_Test\\MonitorFile\\MonitorFile.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nabbot\\Source\\Repos\\_Test\\MonitorFile\\MonitorFile.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nabbot\\Source\\Repos\\_Test\\MonitorFile\\MonitorFile.vbproj",
+        "projectName": "MonitorFile",
+        "projectPath": "C:\\Users\\nabbot\\Source\\Repos\\_Test\\MonitorFile\\MonitorFile.vbproj",
+        "packagesPath": "C:\\Users\\nabbot\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nabbot\\Source\\Repos\\_Test\\MonitorFile\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nabbot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

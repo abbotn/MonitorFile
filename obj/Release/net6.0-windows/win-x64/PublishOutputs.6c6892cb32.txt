@@ -1,0 +1,4 @@
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\bin\Release\net6.0-windows\publish\win-x64\MonitorFile.exe
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\bin\Release\net6.0-windows\publish\win-x64\MonitorFile.dll
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\bin\Release\net6.0-windows\publish\win-x64\MonitorFile.deps.json
+C:\Users\nabbot\Source\Repos\_Test\MonitorFile\bin\Release\net6.0-windows\publish\win-x64\MonitorFile.runtimeconfig.json
